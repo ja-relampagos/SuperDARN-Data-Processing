@@ -1,4 +1,4 @@
-# SuperDARN Data processing
+# SuperDARN Data Processing Guide
 This repository provides detailed guidance on the processing of Super Dual Auroral Network (SuperDARN) data using the Radar Software Toolkit (RST), available at: https://github.com/SuperDARN/rst
 
 Helpful documentation for RST, including installation instructions, descriptions of standard SuperDARN data formats, and introductory data processing tutorials, can be found in the RST readthedocs pages: https://radar-software-toolkit-rst.readthedocs.io/en/latest/
