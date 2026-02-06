@@ -3,4 +3,4 @@ This repository provides detailed guidance on the processing of Super Dual Auror
 
 Helpful documentation for RST, including installation instructions, descriptions of standard SuperDARN data formats, and introductory data processing tutorials, can be found in the RST readthedocs pages: https://radar-software-toolkit-rst.readthedocs.io/en/latest/
 
-The goal of this repository is to bring together the main processing steps outlined in the original RST documentation and explain them in greater detail, with a focus on clarity for new SuperDARN users. 
+The goal of this repository is to bring together the main processing steps outlined in the original RST documentation and explain them in greater detail, with a focus on clarity for new SuperDARN users. In particular, this repository emphasises the key steps required to produce ionospheric convection maps. 
